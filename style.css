@@ -137,3 +137,32 @@ ul li:not(:last-child) {
 .modal button:hover {
   background-color: #333;
 }
+
+/* add by myself */
+.name {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.age span,
+.email span,
+.phone span {
+  font-weight: bold;
+}
+
+ul {
+  margin-top: 1rem;
+}
+
+.modal-title {
+  font-size: 1.5rem;
+}
+
+.modal-body {
+  margin: 1rem auto;
+}
+
+.posts li {
+  margin-bottom: 1rem;
+  border-bottom: 1px dotted #ccc;
+}
